@@ -1,0 +1,252 @@
+{"frames": [
+
+{
+	"filename": "halu_0001.png",
+	"frame": {"x":0,"y":0,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0002.png",
+	"frame": {"x":225,"y":0,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0003.png",
+	"frame": {"x":450,"y":0,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0004.png",
+	"frame": {"x":675,"y":0,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0005.png",
+	"frame": {"x":0,"y":199,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0006.png",
+	"frame": {"x":225,"y":199,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0007.png",
+	"frame": {"x":450,"y":199,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0008.png",
+	"frame": {"x":675,"y":199,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0009.png",
+	"frame": {"x":0,"y":398,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0010.png",
+	"frame": {"x":225,"y":398,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0011.png",
+	"frame": {"x":450,"y":398,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0012.png",
+	"frame": {"x":675,"y":398,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0013.png",
+	"frame": {"x":0,"y":597,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0014.png",
+	"frame": {"x":225,"y":597,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0015.png",
+	"frame": {"x":450,"y":597,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0016.png",
+	"frame": {"x":675,"y":597,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0017.png",
+	"frame": {"x":0,"y":796,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0018.png",
+	"frame": {"x":225,"y":796,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0019.png",
+	"frame": {"x":450,"y":796,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0020.png",
+	"frame": {"x":675,"y":796,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0021.png",
+	"frame": {"x":0,"y":995,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0022.png",
+	"frame": {"x":225,"y":995,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0023.png",
+	"frame": {"x":450,"y":995,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0024.png",
+	"frame": {"x":675,"y":995,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0025.png",
+	"frame": {"x":0,"y":1194,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0026.png",
+	"frame": {"x":225,"y":1194,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0027.png",
+	"frame": {"x":450,"y":1194,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0028.png",
+	"frame": {"x":675,"y":1194,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0029.png",
+	"frame": {"x":0,"y":1393,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+},
+{
+	"filename": "halu_0030.png",
+	"frame": {"x":225,"y":1393,"w":225,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":199},
+	"sourceSize": {"w":225,"h":199}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "asd.png",
+	"format": "RGBA8888",
+	"size": {"w":900,"h":1592},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3fc0f678c69a534e12a75cf1fb56a7ca:1f0e12c70a63af17be00549d9fbb483e:febc7396cbf0f3b6f86706794f0aaa21$"
+}
+}
