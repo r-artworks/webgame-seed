@@ -14,6 +14,7 @@ class GameState extends Phaser.State {
 	preload() {
 		this.load.image('star', 'assets/star.png');
 	}
+
 }
 
 export default GameState;
