@@ -1,4 +1,4 @@
-import Star from 'objects/Star'
+import Star from 'objects/Star';
 import RainbowText from 'objects/RainbowText';
 
 class GameState extends Phaser.State {
@@ -6,7 +6,7 @@ class GameState extends Phaser.State {
 		const text = new RainbowText(this.game, "- phaser -\nwith a sprinkle of\nES6 dust!");
 		text.anchor.set(0.5);
 
-		new Star(this.game)
+		new Star(this.game);
 	}
 
 	preload() {
