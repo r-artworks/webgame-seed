@@ -1,7 +1,7 @@
 {"frames": [
 
 {
-	"filename": "halu_0001.png",
+	"filename": "player0001.png",
 	"frame": {"x":0,"y":0,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -9,7 +9,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0002.png",
+	"filename": "player0002.png",
 	"frame": {"x":225,"y":0,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -17,7 +17,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0003.png",
+	"filename": "player0003.png",
 	"frame": {"x":450,"y":0,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -25,7 +25,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0004.png",
+	"filename": "player0004.png",
 	"frame": {"x":675,"y":0,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -33,7 +33,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0005.png",
+	"filename": "player0005.png",
 	"frame": {"x":0,"y":199,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -41,7 +41,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0006.png",
+	"filename": "player0006.png",
 	"frame": {"x":225,"y":199,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -49,7 +49,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0007.png",
+	"filename": "player0007.png",
 	"frame": {"x":450,"y":199,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -57,7 +57,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0008.png",
+	"filename": "player0008.png",
 	"frame": {"x":675,"y":199,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -65,7 +65,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0009.png",
+	"filename": "player0009.png",
 	"frame": {"x":0,"y":398,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -73,7 +73,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0010.png",
+	"filename": "player0010.png",
 	"frame": {"x":225,"y":398,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -81,7 +81,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0011.png",
+	"filename": "player0011.png",
 	"frame": {"x":450,"y":398,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -89,7 +89,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0012.png",
+	"filename": "player0012.png",
 	"frame": {"x":675,"y":398,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -97,7 +97,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0013.png",
+	"filename": "player0013.png",
 	"frame": {"x":0,"y":597,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -105,7 +105,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0014.png",
+	"filename": "player0014.png",
 	"frame": {"x":225,"y":597,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -113,7 +113,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0015.png",
+	"filename": "player0015.png",
 	"frame": {"x":450,"y":597,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -121,7 +121,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0016.png",
+	"filename": "player0016.png",
 	"frame": {"x":675,"y":597,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -129,7 +129,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0017.png",
+	"filename": "player0017.png",
 	"frame": {"x":0,"y":796,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -137,7 +137,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0018.png",
+	"filename": "player0018.png",
 	"frame": {"x":225,"y":796,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -145,7 +145,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0019.png",
+	"filename": "player0019.png",
 	"frame": {"x":450,"y":796,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -153,7 +153,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0020.png",
+	"filename": "player0020.png",
 	"frame": {"x":675,"y":796,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -161,7 +161,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0021.png",
+	"filename": "player0021.png",
 	"frame": {"x":0,"y":995,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -169,7 +169,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0022.png",
+	"filename": "player0022.png",
 	"frame": {"x":225,"y":995,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -177,7 +177,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0023.png",
+	"filename": "player0023.png",
 	"frame": {"x":450,"y":995,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -185,7 +185,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0024.png",
+	"filename": "player0024.png",
 	"frame": {"x":675,"y":995,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -193,7 +193,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0025.png",
+	"filename": "player0025.png",
 	"frame": {"x":0,"y":1194,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -201,7 +201,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0026.png",
+	"filename": "player0026.png",
 	"frame": {"x":225,"y":1194,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -209,7 +209,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0027.png",
+	"filename": "player0027.png",
 	"frame": {"x":450,"y":1194,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -217,7 +217,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0028.png",
+	"filename": "player0028.png",
 	"frame": {"x":675,"y":1194,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -225,7 +225,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0029.png",
+	"filename": "player0029.png",
 	"frame": {"x":0,"y":1393,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,
@@ -233,7 +233,7 @@
 	"sourceSize": {"w":225,"h":199}
 },
 {
-	"filename": "halu_0030.png",
+	"filename": "player0030.png",
 	"frame": {"x":225,"y":1393,"w":225,"h":199},
 	"rotated": false,
 	"trimmed": false,

@@ -1,7 +1,10 @@
-class RainbowText extends Phaser.Text {
-	constructor(game, text) {
-		super(game, 0, 0, text, { font: "45px Calibri", fill: "#ff0044", align: "center" });
+import Label from 'engine/drawables/Label'
 
+class RainbowText extends Label {
+	constructor(game, text) {
+		super(game);
+
+		this.text = text;
 		this._speed = 125; //ms
 		this._colorIndex = 0;
 		this._colors = ['#ee4035', '#f37736', '#fdf498', '#7bc043', '#0392cf'];

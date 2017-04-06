@@ -1,8 +1,7 @@
-class Star extends Phaser.Sprite {
-	constructor(game) {
-		super(game, 0, 0, "star");
-		this.game.stage.addChild(this);
-	}
+import MovieClip from 'engine/drawables/MovieClip'
+
+class Star extends MovieClip {
+	constructor(game) { super(game, { id: 'star' }); }
 }
 
 export default Star;
