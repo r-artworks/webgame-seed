@@ -1,15 +1,8 @@
 class Star extends Phaser.Sprite {
-
-	constructor(game, x, y) {
-		super(game, x, y, "star");
+	constructor(game) {
+		super(game, 0, 0, "star");
 		this.game.stage.addChild(this);
 	}
-
-	update(delta) {
-		this.x++;
-		this.y++;
-	}
-
 }
 
 export default Star;

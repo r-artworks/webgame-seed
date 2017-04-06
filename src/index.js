@@ -1,11 +1,17 @@
 import GameState from 'states/GameState';
 
-class Game extends Phaser.Game {
+const getScreenWidth = () => window.innerWidth * window.devicePixelRatio;
+const getScreenHeight = () => window.innerHeight * window.devicePixelRatio;
 
+class Game extends Phaser.Game {
 	constructor() {
-		super(500, 500, Phaser.AUTO, 'content');
+		super(getScreenWidth(), getScreenHeight(), Phaser.AUTO, 'content');
 		this.state.add('GameState', GameState);
 		this.state.start('GameState');
+
+		window.addEventListener('resize', () => {
+			this.scale.setGameSize(getScreenWidth(), getScreenHeight());
+		});
 	}
 }
 
